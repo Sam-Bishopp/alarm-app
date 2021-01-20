@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alarm App</string>
+
+    <string name="create">Create</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="timer_create">Create / Update</string>
+    <string name="alarm">Alarm</string>
+    <string name="stop_audio_timer">Stop Timer</string>
+    <string name="stop_audio_alarm">Stop Alarm</string>
+
+    <string name="active_alarms">Active Alarms</string>
+    <string name="timer_hint">Length of time (Seconds)</string>
+
+    <string name="choose_date">Choose a Date</string>
+    <string name="choose_time">Set a Time</string>
+    <string name="set_alarm">Set Alarm</string>
+
+    <string name="timer_title">Timer</string>
+    <string name="alarm_title">Set an Alarm</string>
+    <string name="active_title">Your Active Alarms</string>
+</resources>

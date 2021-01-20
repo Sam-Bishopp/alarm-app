@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/alarm" android:id="@+id/menuAlarm" />
+    <!-- <item android:title="@string/active_alarms" android:id="@+id/menuActive" /> -->
+    <item android:title="@string/timer_title" android:id="@+id/menuTimer" />
+
+</menu>
